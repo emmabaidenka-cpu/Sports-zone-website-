@@ -1,0 +1,16 @@
+{
+  "name": "sportzone",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SPORTZONE sports news website with admin publishing and RSS headlines",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "rss-parser": "^3.13.0"
+  }
+}
