@@ -1,0 +1,13 @@
+[
+  {
+    "id": "welcome-sportzone",
+    "title": "Welcome to SPORTZONE",
+    "category": "Ghana",
+    "author": "SPORTZONE Desk",
+    "summary": "Your home for sports news, match stories, analysis and updates from Ghana and around the world.",
+    "body": "Welcome to SPORTZONE. This is a sample article to show how published stories appear. Sign in to the admin dashboard to edit or remove this example and publish your own reporting.",
+    "image": "",
+    "createdAt": "2026-10-14T08:00:00.000Z",
+    "published": true
+  }
+]
